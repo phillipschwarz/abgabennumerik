@@ -1,4 +1,4 @@
-Abgabe von
+Abgabe von Mats Hoffstadt und Phillip Schwarz
 
 1. Der Code wurde mit Julia 1.11.4 erstellt
 
