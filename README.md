@@ -2,7 +2,7 @@ Abgabe von Mats Hoffstadt und Phillip Schwarz
 
 1. Der Code wurde mit Julia 1.11.4 erstellt
 
-2. Um den Code zu reproduzieren, öffnen sie ein Julia-REPL und für sie folgenden Code aus:
+2. Um den Code zu reproduzieren, öffnen sie ein Julia-REPL und führen sie folgenden Code aus:
 ```julia
     include("code1.jl")
 ```
